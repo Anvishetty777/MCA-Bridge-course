@@ -1,2 +1,5 @@
 # MCA-Bridge-course
-MCA bridgecourse
+
+use git merge [branch_name]to merge changes from one branch into another,integrating the work done in different branches.
+
+bfghfgnfg
